@@ -8,4 +8,4 @@ The main goal was to create an Euromillions Simulator, using Java and Object-Ori
 
 Check [Wiki](https://en.wikipedia.org/wiki/EuroMillions) for more info about the game.
 
-PS: Comments in Portuguese
+PS: "Code" and Comments in Portuguese
